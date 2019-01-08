@@ -1,0 +1,1 @@
+console.log('delete-all-users')
